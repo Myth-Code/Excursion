@@ -13,3 +13,5 @@ h1 {font-family: verdana;
 #POI {font-family: verdana;
       font-size: 21px;
       color: gray;}
+#footer {text-align: right;
+         color: gray;}

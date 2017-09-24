@@ -5,7 +5,8 @@ h1 {font-family: verdana;
     font-size: 50px;
     color: white;
     text-align: center;}
-#download {color: aquamarine;
+.download {font-family: verdana;
+           color: aquamarine;
            font-size: 16px;}
 #guide {font-family: verdana;
         font-weight: 300;
